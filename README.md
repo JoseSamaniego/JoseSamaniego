@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoseSamaniego
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Web development, English and Pharmacy and Biochemistry
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ONE NEXT EDUCATION
 - 📫 How to reach me jose.syonemitsu@gmail.com
 
 <!---
